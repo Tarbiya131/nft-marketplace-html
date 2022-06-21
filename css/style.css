@@ -100,6 +100,7 @@ input::placeholder{
 .top{
     display: flex;
     margin-top: 50px;
+    margin: 20px;
 }
 
 .top_left{
@@ -122,4 +123,41 @@ input::placeholder{
 
 .statistics{
     width: 70%;
+}
+.mt-250{
+margin-top: ;
+}
+.title{font-size: 48px;
+    font-family: "Russo One", sans-serif;
+    font-weight: 900;
+}
+.title_small{
+font-size: 20px;
+font-weight: 700;
+font-family: "DM Sans", sans-serif;
+}
+.jc-sb{
+justify-content: space-between;
+}
+.subtitle{
+font-family:"DM Sans",sans-serif;
+font-weight: 400;
+font-size: 18px;
+color: #565656;
+line-height: 32px;
+}
+.subtitle_small{
+    font-size: 14px;
+    color: #565656;
+    line-height: 22px;
+    font-family:"DM Sans", sans-serif; 
+}
+.w-250{
+width: 250px;
+}
+.statistics{
+    width: 70%;
+}
+.features_block{
+    height: 320px;
 }
